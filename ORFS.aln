@@ -1,0 +1,176 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+SARSCoV2_S         ------------------------------------------------------------	0
+BtRsBetaCoV_S      MIALHLQTLNFCLLTEVFITQMIFLGLMSCIYKITFYLLTLMSLGLHL---AILIIPYPL	57
+Rs4231_S           MMFKPLITLNTLHPGEGFIILMKSLDQTLFILRIYFFHSILMSQGFILLIIGLTTLSYLL	60
+CoV_U_S            MMFKLLITLNILHLG-GFTILMKFLDQTLFILRIYFFHFILMLQGFILLIIRLATLSYLL	59
+                                                                               
+
+SARSCoV2_S         --------------------------------MFVFLVLLPLVSSQCVNLTTRTQLPPAY	28
+BtRsBetaCoV_S      GMVFTLLRLKSLMLLEDGFLVLQTINLNPLTTQL---ISLGLVILSCVTIHSLLCDPTTL	114
+Rs4231_S           RMVFILLPLRNQMLSVVGFLALPTTSLSRLSSIILLMLLYEHVILSCVTTLSLLSLNLRE	120
+CoV_U_S            RMVFILLPQRNQMLSVVGFLVLPTTSHSRLLLTILLMLLYEHVTLNCVTTLSLLFLNPWV	119
+                                                    :   :    *  .**.  :        
+
+SARSCoV2_S         TNSFTRGV--------YY----PDKVFRSSVLH-STQDL---------------------	54
+BtRsBetaCoV_S      RYRLTYSIMHSIAHLNMFLRILTLTLVKNQVISRILESLFSGIKMVFCMFTLVTNPFLLL	174
+Rs4231_S           HRHTLYSTMHLIALSNTYQTPFRSMLLKSQVILNTYESLCLKIRMGFSMFTRVINLTSVI	180
+CoV_U_S            HRHILYSIMHLIALSSTYLMPFRLMFQKSQVILNTYESLCLKIKMGFSMFIRAINLMFVI	179
+                         .          :       . :..*:    :.*                     
+
+SARSCoV2_S         --------FLPFFSNVTWFHA----------IHVSGTNGTKRFDNPVLPFNDGVYFASTE	96
+BtRsBetaCoV_S      VACQLVLMHLNLFLSYLWVLILLISELFLL-FLLTLVIGVLQLQ-LILDISQLHSCSS--	230
+Rs4231_S           ---YHLALIFNLFLSYLLVLTLQILEPFLQHFCLLKTLGVHQLLLILLAISQLHSCLS--	235
+CoV_U_S            ---YLLVLTLNLFLSCLLVLTLQILEPFLQPFHLLKTFGARQLQPILLAISQLHLCSS--	234
+                            : :* .   .            : :  . *. ::   :* :.:     *  
+
+SARSCoV2_S         KSNIIRGWIFGTTLDSKTQSLLIVN----NATNVVIKV--CEFQFCNDPFLGVYYHKNNK	150
+BtRsBetaCoV_S      MMKMV-----------QSQMLSIVLKIHLLNSNALLKVLRLTKEFTKPPILGH-PQRKLG	278
+Rs4231_S           MMKMV-----------QSQMLLIVLKIPLLNSNVLLKVLRLIKEFTKPPILGH-PQRKLG	283
+CoV_U_S            MMKMV-----------QSQMLLIVLKIHLLNSNALLRALRLTKEFTRPLISGLFPQEMLD	283
+                     :::           ::* * **       :*.:::.     :* .  : *   :.   
+
+SARSCoV2_S         SWMESEFRVYSSANNCTFE---YVSQPFLMDLEGKQGNFKNLREF-VFKNIDGYFKIYSK	206
+BtRsBetaCoV_S      SLILQ---------TCVLLERFLMLLHFLLSMHGRGKEFLIVLLITLYSTTQHLFQLLSV	329
+Rs4231_S           SLILQ---------TCVLLGRFLMLLHFLLSMHGRGKEFLIVLLITLYSTTQHLFQLLSV	334
+CoV_U_S            SLILQ---------TCVLLERFLMLLNSLLSMHGREKKFLIVLLITLCSTTQHFFQPLSA	334
+                   * : .         .*.:     :    *:.:.*:  :*  :  : : .. :  *:  * 
+
+SARSCoV2_S         H--TPINLVRDLPQ-----------------------------------------GFSAL	223
+BtRsBetaCoV_S      MAFLPLSMIFASLMSMQIHSSKEMMGKHQDRPVLLLIIIINCQMILWVVSLLGILGTLML	389
+Rs4231_S           MAFLPLSMTFASPTSMQIHSSKEMMGKHQDRPVLLLIIITNYQMTSWVVSHGTPILKILP	394
+CoV_U_S            MAFLPLSMIFASPMSMQILLSREMMDKRQDKLVLLLIIIINCQMISWVVSLLGILGTLML	394
+                       *:.:                                                    
+
+SARSCoV2_S         EPLVDLPIGINITRFQTLLALHRSYLTPGDS-----------------------------	254
+BtRsBetaCoV_S      LQLVIIIINIDLSDMASLGPLRETFLMCLSPLMANHVPHLLSTVTGHMIMVFSLL-MAAI	448
+Rs4231_S           LPVI-IIIYIDGLEGLSLTLMSATYLTTSIHLEVSLAQLVLIVITPYVHMAFLQQLVLDT	453
+CoV_U_S            LQLVIIIINIGILDMASLGPLRETYLMCLSPLMANLAPHLLLIVIGHMIMVFTPLLALAT	454
+                     :: : * *.     :*  :  ::*                                  
+
+SARSCoV2_S         ------------------------------------------------------------	254
+BtRsBetaCoV_S      NPIELYFLLNFMHLLQSVDQNYPLTLLKTSVSILTLMDSLVLVCLLLQRDFNHFNNLVVM	508
+Rs4231_S           NLIELYFLLNFMHPLQSVDQNYPLTLLKTSVSILTLMDSLVLVCLLPQRDFNHFNNLVVM	513
+CoV_U_S            NLTELYFLLNFMHRPRFVDQNYPLTLLRTSVSILILMDSLVLVCLLLQRDFNHFNNLAVM	514
+                                                                               
+
+SARSCoV2_S         ----------------------------SSGWTAGAAAYYVGYLQPRTFLLKYNENGTI-	285
+BtRsBetaCoV_S      FRISLIQFEILKRLKYTFHLALLAVVLHPEQILHQKLLFYIKMLTALMFLQS-MQTNSHL	567
+Rs4231_S           FRISLIQFETRRHLKYTFHLALLAVVLHLEQILHQKLLFYIKMLIALMFLQS-MQTNSHL	572
+CoV_U_S            FLISLIPFEILKHLKYTFHLALLGVVLHLEQMLHLKLLFYIKMLTALMFLQQFMQINSHQ	574
+                                                .        :*:  *    ** .  : .:  
+
+SARSCoV2_S         TDA----------VDCALDPLSETK-CTLKSFTVEKGIY-QTS---NFRVQPT-------	323
+BtRsBetaCoV_S      LGAYILLEIMYFKLRQAVLELSMSTLLMSATFLLELAFVLVTTQFLHYVVLAKNLLWLIL	627
+Rs4231_S           LGAYTLLEIMYFKLRQAVLELSMSTLLMSATFLLELAFVLVTTQFLHYVVLAKNLLWLIL	632
+CoV_U_S            LGAYILLETMYSRLKQAVLELSMSTLLMSATFLLELAFVLVTIQFLYYVVLAKNLLWLIL	634
+                    .*          :  *:  ** :.     :* :* .:   *     : *  .       
+
+SARSCoV2_S         --ESIVRFPNITNLCPF--GEVFN-ATRFASVYAWNRKRISNCVADYSVLYNSASFSTFK	378
+BtRsBetaCoV_S      CLVLIVQLL--TLITPLLYLLIFQLALLQKCLFLWLKPPIVICTSAAILLNV--------	677
+Rs4231_S           CLVLIVQLL--TLITPLLYLLIFQLALLQKCLFLWLKPPIVICTSAAILLNV--------	682
+CoV_U_S            CLVLIVQLL--TLITPLLYLLTFQLALLQKCLFLWLKPPIVICTSAEILLNV--------	684
+                       **::   * : *:     *: *    .:: * :  *  *.:   :*          
+
+SARSCoV2_S         CYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNS	438
+BtRsBetaCoV_S      ----------LICFSNMVAFAHNIVHSQVSLLN---------------------------	700
+Rs4231_S           ----------LICFSNMVAFAHNIVHSQVSLSN---------------------------	705
+CoV_U_S            ----------LICFSNMVAFAHNIVHSQVLLLN---------------------------	707
+                              :**:*: * :. *  .:*                               
+
+SARSCoV2_S         NNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQ	498
+BtRsBetaCoV_S      ------------------------------------------------------------	700
+Rs4231_S           ------------------------------------------------------------	705
+CoV_U_S            ------------------------------------------------------------	707
+                                                                               
+
+SARSCoV2_S         PTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKK	558
+BtRsBetaCoV_S      ---------------------RIA----THVKCSLK-NKCTKPQLKIL----VVLIFHKY	730
+Rs4231_S           ---------------------RTA----TRVKCSLK-NRCTKPQLKIS----VVLIFHKY	735
+CoV_U_S            ---------------------RIA----THVKCSLKSNKCTKPQLNIL----VVLIFHKY	738
+                                          *     : . .*  *:*.: :::      *:   :* 
+
+SARSCoV2_S         FLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLY------	612
+BtRsBetaCoV_S      YLTLSQLRD-----------------LLLRTCSLIRHSLMLALSNMANAVILMLEISFVR	773
+Rs4231_S           YLTLSQLRD-----------------LLLRTCSLIRHSLMLALSNMANAVMLMLEISFVR	778
+CoV_U_S            YLTLSQLRG-----------------LLLRTCSLIRHSLMLASSNMANAVILMLEISFVR	781
+                   :* :.*:                   * :  **:   *::   :* :* * ::       
+
+SARSCoV2_S         ---QDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAG	669
+BtRsBetaCoV_S      RSSMDLQCCHLCSLM---ILLPTLLLS----VVLPLLDGHLVLALLFKYLLLCKWHIGSM	826
+Rs4231_S           RSSMDLQCCHLCSLM---ILLPTLLLL----VVLPLLDGHLVLALLFKYLLLCKWHIGSM	831
+CoV_U_S            RSSMDLQCCHLCSLM---ILLPTLLLL----VVLPLLDGHLVLALLFKYLLLCKWHIGSM	834
+                       *::* .:   :    * **  :      *:    * *: *  .:    *.  **: 
+
+SARSCoV2_S         IC-----ASYQTQTNSP----RRARSVAS---QSIIAYTMS----LGAENSVAYSNNSIA	713
+BtRsBetaCoV_S      ALELPKMFSMRTKNKSPTNLTRRSVKFKNHLQQHQLHWASCKTLLTRMLKHTHLSNNLAP	886
+Rs4231_S           ALELPKMFSMRTKNKSPINLIRRLAKFKNHLQLHPLHWASCKTLLTRMLKHTHLLNNLAP	891
+CoV_U_S            ALELPKMFSMRTKNKSPTNLTRRLVKFKNHLQQHQLHWASCKTLLTRMLKHTHLLNNLAL	894
+                           * :*:.:**    **  .. .      : :: .        : .   **   
+
+SARSCoV2_S         IPTNFTISVTT------EILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRAL	767
+BtRsBetaCoV_S      ILVQFQVCMISSRDLTKSRLRYKLIGLQADCKA--CKPMHNNSGL-LKSGLLLILL--LL	941
+Rs4231_S           ILVLFQVCMISFRDLIKSRRRYKLTGLQADCKA--CKPMHNNSGL-LKSGLLLILL--LL	946
+CoV_U_S            ILVQFQVCMISFRDLIKSRRRYKLTGLQADFKA--FKPMHNNSGL-LKSGLLLILL--LL	949
+                   * . * :.: :      .    .:   ..* .        : *.* *: * :   *   *
+
+SARSCoV2_S         TGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDP------SKPSKRSFIEDL	821
+BtRsBetaCoV_S      KCLSVFLDNQKELTFAEKAI-ILCPS-RKQPRMVLSSYMSHMCHPKRETSPLRQQFVTKA	999
+Rs4231_S           KCLSVFLDNQKELTFAEKAT-ISCPS-RKQPRMVLSSYMSHVCHPKRETSPLRQQFVTKA	1004
+CoV_U_S            KCLSVFLDNQKELTFVERAT-TLCPS-HKQPRMVLSSYMSRMCHPRRGTSPQRQQFVMKA	1007
+                   . ::*  *::.: .*.:       *  :.   : :*. :         :.* ::.*: . 
+
+SARSCoV2_S         LFN---KV---TLADAGFIKQYGD------------------------------------	839
+BtRsBetaCoV_S      KHTSRVKVFLFLMALLGLLHRGTSFLHKLLQTIHLSPEVVMS-SASLTTQFMILCNLSLT	1058
+Rs4231_S           KHTSRVKVFLFLMALLGLLHRGTSFLHKLLQTIHLSLGVVMS-LASLTTQFMILCNLSLT	1063
+CoV_U_S            KHTSLVKVFLCLMALLGLLHRGTSFLHKLLQTIHLSQEIVMSLLASLTTQFMILCNLSST	1067
+                    ..   **    :*  *::::  .                                    
+
+SARSCoV2_S         -------CLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAG--TITSGWTFGA	890
+BtRsBetaCoV_S      HSKKSWTSTSKITHHQMLISATFQALTLLSSIFRKKLTASMRSPKIMNHSLTFKNWE---	1115
+Rs4231_S           HSKKSWTSTSKITHHQMLISATFQALTLPSSIFRKKLTASMRSPKIMNHSLTFKNWE---	1120
+CoV_U_S            HSKKSWTSTSKIIHHQMLILATFQALTLLSSTFKKKLTASMRSLKIMNHSLTFKNWE---	1124
+                          . ..*  ::::   .*:.**:    : .:: *.  *  : .     ..*    
+
+SARSCoV2_S         GAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQD	950
+BtRsBetaCoV_S      ----------NMSNTLNGLGMFGSASL---------------------------------	1132
+Rs4231_S           ----------NMSNTLNGLGMFGSASL---------------------------------	1137
+CoV_U_S            ----------NMSNILNGLGMFGSASL---------------------------------	1141
+                             :*:  :**:*:  ..                                   
+
+SARSCoV2_S         VVNQNAQALNTLVKQLSSNFGAISSVLNDLSRLDK-VEAEVQIDRLITGRLQSLQTYVTQ	1009
+BtRsBetaCoV_S      --------LDLPSSWLQSCFVALVVA--VASRVHALVVLAASLMRMTLSQFSRVSNYITH	1182
+Rs4231_S           --------LDLPSSWLQSCFAALVVA--VASRVHALVVLAANLMRMTLSRFSRVSNYITH	1187
+CoV_U_S            --------LDLPSSWLQSCFVALVVA--VASRVHALVVLAASLMRMTLSQFSRVSNYITH	1191
+                           *:   . *.* * *:  .    **:.  *   ..: *:  .::. :..*:*:
+
+SARSCoV2_S         QLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPA	1069
+BtRsBetaCoV_S      ------------------------------------------------------------	1182
+Rs4231_S           ------------------------------------------------------------	1187
+CoV_U_S            ------------------------------------------------------------	1191
+                                                                               
+
+SARSCoV2_S         QEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVI	1129
+BtRsBetaCoV_S      ------------------------------------------------------------	1182
+Rs4231_S           ------------------------------------------------------------	1187
+CoV_U_S            ------------------------------------------------------------	1191
+                                                                               
+
+SARSCoV2_S         GIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVA	1189
+BtRsBetaCoV_S      ------------------------------------------------------------	1182
+Rs4231_S           ------------------------------------------------------------	1187
+CoV_U_S            ------------------------------------------------------------	1191
+                                                                               
+
+SARSCoV2_S         KNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSC	1249
+BtRsBetaCoV_S      ------------------------------------------------------------	1182
+Rs4231_S           ------------------------------------------------------------	1187
+CoV_U_S            ------------------------------------------------------------	1191
+                                                                               
+
+SARSCoV2_S         GSCCKFDEDDSEPVLKGVKLHYT	1272
+BtRsBetaCoV_S      -----------------------	1182
+Rs4231_S           -----------------------	1187
+CoV_U_S            -----------------------	1191
+                                          

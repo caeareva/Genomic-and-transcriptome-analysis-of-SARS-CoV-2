@@ -1,0 +1,86 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ratG13        ------------------------------------------------------------	0
+SARSCoV2      MRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQASLPFGWLIVGVALLAVFQSASKIIT	60
+Rs4231        MRIFTLGSITAQSGKIDNASPASTVHATATIPLQASLPFGWLVIGVAFLAVFQSVTKIIA	60
+                                                                          
+
+ratG13        ------------------------------------------------------------	0
+SARSCoV2      LKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRII	120
+Rs4231        LNKRWQLALYKGFQFICNLLLLFVTIYSHLLLVAAGMEAQFLYLYALIYFLQCINACRII	120
+                                                                          
+
+ratG13        ---------------------------------------------ATGAGAATTTTCACA	15
+SARSCoV2      MRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPI-SEHD	179
+Rs4231        MRCWLCWKCKSKNPLLYDANYFVCWHTHNYDYCIPYNSVTDTIVVTAGDGISTPK-LKED	179
+                                                           ::* * ::       
+
+ratG13        CTTGGAA---------CT--------------GTAACTTTGAAAC--------AAGGTGA	44
+SARSCoV2      YQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEPEEH	239
+Rs4231        YQIGGYSEDWHSGVKDYVVVHGYFTEVYYQLESTQITTDTGIENATFFIFNKLVKDPQ-N	238
+                 ** :          .              .*   * **            .      
+
+ratG13        AATTAAGGATGCTACTCCTTCAGATTCTGTTCGCGCTACTGCAACGATACCGATACAAGC	104
+SARSCoV2      VQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL----------------------------	271
+Rs4231        VQIHTIDGSSGVVNPAMDPIYDEPTTTTSVPL----------------------------	270
+              .   : .*::* .  .        ** *..                              
+
+ratG13        CTCACTCCCTTTCGGATGGCTTATTGTTGGCGTTGCATTTCTTGCTGTTTTTCAAAGCGC	164
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        TTCCAAGATCATAACCCTTAAAAAGAGATGGCAACTAGCACTCTCTAAGGGTATTCACTT	224
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        TATTTGCAACTTGCTGCTGCTGTTTGTAACAGTTTACTCACATCTTTTGCTCGTTGCTGC	284
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        TGGTCTTGAAGCCCCATTCCTCTACCTCTACGCTTTAGTCTACTTCTTGCAGAGTATAAA	344
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        CTTTGTAAGAATAATAATGAGGCTTTGGCTTTGCTGGAAATGCCGTTCCAAAAACCCATT	404
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        ACTCTATGATGCTAACTACTTCCTTTGTTGGCATACTAATTGTTATGACTATTGTATACC	464
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        TTACAATAGTGTAACTTCTTCAATTGTCATTACTTCAGGTGATGGCACAACAAGTCCTAT	524
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        TTCTGAACATGACTACCAGATTGGTGGTTATACTGAAAAATGGGAGTCTGGAGTAAAAGA	584
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        CTGTGTTGTATTACACAGTTACTTCACTTCAGATTATTACCAGCTGTACTCAACTCAATT	644
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        GAGCACAGACACTGGTGTTGAACATGTTACCTTCTTCATCTACAATAAAATTGTTGATGA	704
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        GCCTGAAGAACATGTCCAAATTCACACAATCGACGGTTCATCCGGAGTTGTTAATCCAGC	764
+SARSCoV2      ------------------------------------------------------------	271
+Rs4231        ------------------------------------------------------------	270
+                                                                          
+
+ratG13        AATGGAACCAATTTATGATGAACCGACGACGACTACTAGCGTGCCTTTGTAA	816
+SARSCoV2      ----------------------------------------------------	271
+Rs4231        ----------------------------------------------------	270
