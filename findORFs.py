@@ -12,7 +12,7 @@
 #                        python findORFs.py -lG -s "ATG" -mG 100< sarsRs4231.fa > sarsRs4231.bed
 #                        python findORFs.py -lG -s "ATG" -mG 100< coronavirusBtRs.fa > coronavirusBtRs.bed
 #  
-#Multiple fastas execution: python findORFs.py -lG -s "ATG" -mG 0 < lab5test.fa > tass2ORFdata-ATG-100.txt
+#   Multiple fastas execution: python findORFs.py -lG -s "ATG" -mG 0 < lab5test.fa > tass2ORFdata-ATG-100.txt
 #   Pupose: find open reading frames in the complement and reverse complement of a fasta file.
 #           Program was built to be executed in stdin and stdout.
 #
