@@ -13,7 +13,7 @@
 #
 #   Required module: pybedtools.py   
 #   Pupose: Obtain fasta sequences for open reading frames (ORF) in any genome and output file
-#   Condition: Program requires to change bed and fasta genome files internally each time when running it
+#   Condition: Program requires to change bed and fasta genome files internally each time before running it
 #   
 #################################################################################################
 
